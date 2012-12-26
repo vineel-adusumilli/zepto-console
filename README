@@ -2,6 +2,8 @@ INTRODUCTION
 
 Zepto.js version of Chris Done's jquery-console. Original here: https://github.com/chrisdone/jquery-console
 
+A minified version compiled by Google Closure has been included for convenience.
+
 See demo.html.
 
 Options available:
